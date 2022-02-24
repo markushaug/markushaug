@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Markus</h1>
-<h3 align="center">A full-stack developer & SAP Consultant based in Germany</h3>
+<h1 align="center">Hi there 👋🏼, I'm Markus</h1>
+<h3 align="center">I'm currently working @SAP.</h3>
 
-- 🔭 A few of my best personal projects are here on GitHub
+- 🔭 A few of my personal projects are listed here on GitHub
 
 - 📫 How to reach me **mh@haugmarkus.de**
