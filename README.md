@@ -8,3 +8,9 @@ My personal projects on GitHub are not associated with SAP. All views are my own
 - 🔭 A few of my personal projects are listed here on GitHub
 
 - 📫 How to reach me **mh@haugmarkus.de**
+
+Keep up to date with my latest content:
+
+- LinkedIn: https://linkedin.com/in/haugmarkus
+- [Twitter](https://twitter.com/_markushaug_)
+- Blog Posts: https://bit.ly/sap_blogs
