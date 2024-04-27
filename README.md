@@ -9,4 +9,4 @@ My personal projects on GitHub are not associated with SAP. All views are my own
 
 - 📫 How to reach me **mh@haugmarkus.com**
 
-Keep up to date with my latest content [here](https://haugmarkus.com/publications/).
+Keep up to date with my latest content [here](https://haugmarkus.com/blog/).
