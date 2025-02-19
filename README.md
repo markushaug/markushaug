@@ -1,11 +1,30 @@
-### Hi there 👋
+# Hi there! 👋 I'm Markus Haug
 
-As a Senior Product Learning Specialist at [SAP](https://github.com/sap), I’m a advisor and advocate for the SAP developer community, blending technical expertise, deep product knowledge, and engaging speaking skills to support developers through their learning journeys, overcoming challenges, and achieving SAP certifications worldwide.
+I'm a tech enthusiast and digital innovator working at the intersection of enterprise software, AI/ML, and developer education. Currently wearing multiple hats:
 
-My work focuses on developing premier online content and learning experiences for developers of the SAP BTP, specifically within cloud-native application development, leveraging the CAP-framework, SAP Business Application Studio, Cloud Foundry, Kubernetes, Kyma, and the intuitive SAP Build platform.
+🎓 Senior Product Learning Specialist at SAP, where I help developers master cloud-native development with SAP BTP, CAP, and SAP Build
 
-Aside my full-time professional duties at SAP, I’m deepening my expertise through a full-time B.Sc. in Business Informatics at the IU International University of Applied Sciences, where I specialize in Deep Learning and Business Management. Some of my machine learning research projects can be found here on GitHub.
+🚀 Founder of MHDS Studio, delivering custom digital solutions and AI consulting
 
-**Note**: My personal projects on GitHub are not associated with SAP. All views are my own.
+📚 Pursuing an M.Sc. in Artificial Intelligence, focusing on:
+- Deep Learning architectures for enterprise applications
+- Natural Language Processing
+- Computer Vision in business contexts
 
-Keep up to date with my latest content [here](https://haugmarkus.com/blog/).
+My work spans from creating developer learning experiences to conducting ML research and implementing AI solutions in real-world scenarios.
+
+# Let's Connect! 🤝
+
+Looking for expertise in:
+
+- Software development (Web, Mobile, Native, ...)
+- AI/ML implementation
+- Digital strategy & transformation consulting
+
+📧 [Email me](mailto:mh@haugmarkus.com)
+
+🌐 [Book a call](https://calendly.com/haugmarkus/30min)
+
+📝 [Read my blog](https://haugmarkus.com/blog)
+
+*Note: Personal projects here are independent work. Views are my own.*
