@@ -23,7 +23,9 @@ Looking for expertise in:
 
 📧 [Email me](mailto:mh@haugmarkus.com)
 
-🌐 [Book a call](https://calendly.com/haugmarkus/30min)
+🌐 [Book a discovery call](https://calendly.com/haugmarkus/30min)
+
+👨🏼‍🏫 [Book a mentoring/consulting session](https://topmate.io/haugmarkus)
 
 📝 [Read my blog](https://haugmarkus.com/blog)
 
